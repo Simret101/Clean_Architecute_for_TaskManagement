@@ -1,4 +1,4 @@
-# Task Manager
+# Task Management
 
 A task management web application built with Go, using the Gin framework for HTTP routing and middleware, JWT for authentication, and secure password hashing. This project follows a clean, modular architecture to ensure maintainability and scalability.
 
