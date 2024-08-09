@@ -85,5 +85,5 @@ go test ./... -v
 
 ## Contact
 
-For any questions or issues, please open an issue or contact us at [semret.b4@gmail.com]
+For any questions or issues, please open an issue or contact us at [semret.b74@gmail.com]
 
